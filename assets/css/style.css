@@ -25,9 +25,8 @@
 
 .img_cv02 {
     width: 15rem; /*ancho */
-    height: 22rem; /*  alto */}
-
-
+    height: 22rem; /*  alto */
+}
 
 .texto_main {
     font-size: 15px;
@@ -39,4 +38,14 @@
 
 .bg_barra {
     background-color: rgb(229, 231, 233);
+}
+
+.img_iguana {
+    width: 20git srem; /*ancho */
+    height: 22rem; /*  alto */
+}
+
+.img_cuppon {
+    width: 20rem; /*ancho */
+    height: 22rem; /*  alto */
 }
