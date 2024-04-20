@@ -16,19 +16,18 @@
     height: 40px;
 }
 
-.img_cv01 {
-    width: 20rem; /* ancho */
-    height: 23rem; 
+.card_cv01 {
+    width: 22rem;
+    /*ancho */
+    height: 30rem;
+    /*  alto */
 }
 
 .img_cv02 {
-    width: 18rem; /* ancho */
-    height: 23rem;
-}
+    width: 15rem; /*ancho */
+    height: 22rem; /*  alto */}
 
-.card_cv01 {
-    width: 22rem;     /*ancho */
-}
+
 
 .texto_main {
     font-size: 15px;
