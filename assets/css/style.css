@@ -49,3 +49,10 @@
     width: 20rem; /*ancho */
     height: 22rem; /*  alto */
 }
+.bg-colorbar-alto{
+    background-color: #00a09a !important;
+}
+
+.bg-colorbar-medio{
+    background-color: #FFB236 !important;
+}
